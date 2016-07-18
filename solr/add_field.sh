@@ -3,7 +3,7 @@
 DEFAULT_SOLR_URL="http://localhost:8983/solr/metastore"
 
 if [[ -z $SOLR_URL ]]; then
-	SOLR_URL="$DEFAULT_SOLR_URL/schema"
+	SOLR_URL="$DEFAULT_SOLR_URL"
 fi
 
 if [[ -z $1 ]]; then
@@ -19,4 +19,4 @@ curl -X POST -H 'Content-type:application/json' --data-binary '{
   "add-field":{
      "name":"'$1'",
      "stored":true }
-}' $SOLR_URL
+}' $SOLR_URL'/schema'
