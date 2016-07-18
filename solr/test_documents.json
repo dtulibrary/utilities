@@ -1,0 +1,807 @@
+[
+  {
+    "abstract_ts": [
+      "The article discusses several issues related to science in 2011. It mentions the closure of Tevatron accelerator in Batavia, Illinois, the research regarding embryonic stem (ES) cells, and the effects of Fukushima Daiichi Nuclear plant damages. It also features the genome sequencing of Aboriginal Australians, the cuts on the budget of federal science agencies, and the use of Anthropocene in lessening carbon emissions."
+    ],
+    "access_ss": [
+      "dtu"
+    ],
+    "id": "15008",
+    "affiliation_associations_json": [
+      "{\"author\":[null],\"supervisor\":[],\"editor\":[]}"
+    ],
+    "alert_timestamp_dt": [
+      "2012-11-08T15:25:07.894Z"
+    ],
+    "author_sort": [
+      "Van Noorden, Richard"
+    ],
+    "author_ts": [
+      "Van Noorden, Richard"
+    ],
+    "backlink_ss": [
+      "http://ws.isiknowledge.com/cps/openurl/service?url_ver\u003dZ39.88-2004\u0026rft_id\u003dinfo%3Aut%2F000298318000023",
+      "http://www.scopus.com/inward/record.url?eid\u003d2-s2.0-84255177117\u0026partnerID\u003dR7fSqWZe",
+      "http://www.ncbi.nlm.nih.gov/pubmed/22193080?otool\u003didktudlib"
+    ],
+    "cluster_id_ss": [
+      190875115
+    ],
+    "doi_ss": [
+      "10.1038/480426a"
+    ],
+    "format": [
+      "article"
+    ],
+    "format_orig_s": [
+      "5 News Item"
+    ],
+    "fulltext_availability_ss": [
+      "UNDETERMINED"
+    ],
+    "isolanguage_ss": [
+      "und"
+    ],
+    "issn_ss": [
+      "14764687",
+      "00280836",
+      "17447933"
+    ],
+    "journal_issue_ssf": [
+      "7378"
+    ],
+    "journal_issue_tsort": [
+      7378
+    ],
+    "journal_page_ssf": [
+      "426-429"
+    ],
+    "journal_page_start_tsort": [
+      426
+    ],
+    "journal_title_ts": [
+      "Nature",
+      "Nature",
+      "Nature",
+      "Nature (lond)"
+    ],
+    "journal_vol_ssf": [
+      "480"
+    ],
+    "journal_vol_tsort": [
+      480
+    ],
+    "keywords_ts": [
+      "MULTIDISCIPLINARY",
+      "Multidisciplinary",
+      "atorvastatin",
+      "annual review",
+      "financial crisis",
+      "fundamental particle",
+      "germ cell",
+      "global perspective",
+      "medicine",
+      "pharmaceutical industry",
+      "physics",
+      "radioactive pollution",
+      "research and development",
+      "science and technology",
+      "space technology",
+      "commercial phenomena",
+      "drug marketing",
+      "economics",
+      "human",
+      "medical research",
+      "nuclear accident",
+      "policy",
+      "politics",
+      "population growth",
+      "priority journal",
+      "review",
+      "science",
+      "stem cell research",
+      "Animals",
+      "Disasters",
+      "Drug Industry",
+      "Humans",
+      "Physics",
+      "Science",
+      "Scientific Misconduct",
+      "Sequence Analysis, DNA",
+      "Stem Cells",
+      "United States",
+      "NUCLEAR power plants",
+      "Risk assessment"
+    ],
+    "language_ss": [
+      "und"
+    ],
+    "member_id_ss": [
+      "5331233756868bf16c7c10e2",
+      "5458e6b581343fa01307ec95",
+      "54421b03acc4e2154d4988e8",
+      "54b74b2525bab9230a62382a",
+      "316154386"
+    ],
+    "pub_date_tis": [
+      2011
+    ],
+    "pub_date_tsort": [
+      2011
+    ],
+    "publisher_ts": [
+      "NATURE PUBLISHING GROUP"
+    ],
+    "source_ext_ss": [
+      "dads:isi",
+      "dads:crossref",
+      "dads:scopus",
+      "dads:pubmed",
+      "ds1:ebsco"
+    ],
+    "source_id_ss": [
+      "isi:000298318000023",
+      "crossref:10.1038/480426a",
+      "scopus:2-s2.0-84255177117",
+      "pubmed:22193080",
+      "ebsco:69919368"
+    ],
+    "source_ss": [
+      "isi",
+      "crossref",
+      "scopus",
+      "pubmed",
+      "ebsco"
+    ],
+    "source_type_ss": [
+      "aggregator",
+      "other"
+    ],
+    "subformat_s": [
+      "journal_article"
+    ],
+    "superformat_s": [
+      "bib"
+    ],
+    "title_sort": [
+      "365 days 2011 in review"
+    ],
+    "title_ts": [
+      "365 DAYS: 2011 in review"
+    ],
+    "toc_key_s": [
+      "00280836|000088|000480|007378|000000"
+    ],
+    "types_ss": [
+      "bib:article:journal_article"
+    ],
+    "update_timestamp_dt": [
+      "2015-08-14T22:06:31.779Z"
+    ],
+    "~merge_info_sf": [
+      "{\"abstract_ts\":[\"(ebsco,afh),(ebsco,aph) / 316154386\"],\"affiliation_associations_json\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"author_sort\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"author_ts\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"backlink_ss\":[\"(isi,*) / 5331233756868bf16c7c10e2\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(pubmed,*) / 54b74b2525bab9230a62382a\"],\"cluster_id_ss\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"doi_ss\":[\"(scopus,*) / 54421b03acc4e2154d4988e8\"],\"format\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"format_orig_s\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"isolanguage_ss\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"issn_ss\":[\"(isi,*) / 5331233756868bf16c7c10e2\",\"(isi,*) / 5331233756868bf16c7c10e2\",\"(crossref,*) / 5458e6b581343fa01307ec95\"],\"journal_issue_ssf\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"journal_issue_tsort\":[\"(ebsco,afh),(ebsco,aph) / 316154386\"],\"journal_page_ssf\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"journal_page_start_tsort\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"journal_title_ts\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"journal_vol_ssf\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"journal_vol_tsort\":[\"(ebsco,afh),(ebsco,aph) / 316154386\"],\"keywords_ts\":[\"(isi,*) / 5331233756868bf16c7c10e2\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(ebsco,afh),(ebsco,aph) / 316154386\",\"(ebsco,afh),(ebsco,aph) / 316154386\"],\"language_ss\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"member_id_ss\":[\"(isi,*) / 5331233756868bf16c7c10e2\",\"(crossref,*) / 5458e6b581343fa01307ec95\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(pubmed,*) / 54b74b2525bab9230a62382a\",\"(ebsco,afh),(ebsco,aph) / 316154386\"],\"pub_date_tis\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"pub_date_tsort\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"publisher_ts\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"source_ext_ss\":[\"(isi,*) / 5331233756868bf16c7c10e2\",\"(crossref,*) / 5458e6b581343fa01307ec95\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(pubmed,*) / 54b74b2525bab9230a62382a\",\"(ebsco,afh),(ebsco,aph) / 316154386\"],\"source_id_ss\":[\"(isi,*) / 5331233756868bf16c7c10e2\",\"(crossref,*) / 5458e6b581343fa01307ec95\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(pubmed,*) / 54b74b2525bab9230a62382a\",\"(ebsco,afh),(ebsco,aph) / 316154386\"],\"source_ss\":[\"(isi,*) / 5331233756868bf16c7c10e2\",\"(crossref,*) / 5458e6b581343fa01307ec95\",\"(scopus,*) / 54421b03acc4e2154d4988e8\",\"(pubmed,*) / 54b74b2525bab9230a62382a\",\"(ebsco,afh),(ebsco,aph) / 316154386\"],\"source_type_ss\":[\"(isi,*) / 5331233756868bf16c7c10e2\",\"(crossref,*) / 5458e6b581343fa01307ec95\"],\"subformat_s\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"superformat_s\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"title_sort\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"title_ts\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"toc_key_s\":[\"(isi,*) / 5331233756868bf16c7c10e2\"],\"types_ss\":[\"(isi,*) / 5331233756868bf16c7c10e2\"]}"
+    ]
+  },
+  {
+    "access_condition_s": [
+      "published"
+    ],
+    "access_ss": [
+      "ddf_publ",
+      "dtu",
+      "ddf_pers"
+    ],
+    "affiliation_associations_json": [
+      "{\"author\":[2],\"supervisor\":[],\"editor\":[]}"
+    ],
+    "affiliation_ts": [
+      "Danish School of Education - Research Programme on Organization and Learning, Danish School of Education, Arts, Aarhus University",
+      "Danish School of Education - Pædagogisk Antropologi, Emdrup, Danish School of Education, Arts, Aarhus University",
+      "Danish School of Education - Pædagogisk Antropologi, Emdrup, Danish School of Education, Arts, Aarhus University"
+    ],
+    "alert_timestamp_dt": [
+      "2014-09-13T13:12:36.110Z"
+    ],
+    "backlink_ss": [
+      "http://pure.au.dk/portal/en/publications/id(5638fd70-9705-482f-8b15-464848c9fcc8).html"
+    ],
+    "cluster_id_ss": [
+      2186106711
+    ],
+    "cris_id_ss": [
+      "20999cb6-3d6e-407c-8b8d-ec7bc98069fe"
+    ],
+    "format": [
+      "other"
+    ],
+    "format_orig_s": [
+      "dp"
+    ],
+    "fulltext_availability_ss": [
+      "UNDETERMINED"
+    ],
+    "isolanguage_ss": [
+      "eng"
+    ],
+    "language_ss": [
+      "eng"
+    ],
+    "member_id_ss": [
+      "536b9671b5f5cb5c6902e68b"
+    ],
+    "orcid_ss": [
+      "0000-0001-8263-520X"
+    ],
+    "pub_date_tis": [
+      2001
+    ],
+    "pub_date_tsort": [
+      2001
+    ],
+    "research_area_ss": [
+      "Humanities"
+    ],
+    "review_status_s": [
+      "undetermined"
+    ],
+    "scientific_level_s": [
+      "scientific"
+    ],
+    "source_ext_ss": [
+      "dads:rdb_au"
+    ],
+    "source_id_ss": [
+      "rdb_au:5638fd70-9705-482f-8b15-464848c9fcc8"
+    ],
+    "source_ss": [
+      "rdb_au"
+    ],
+    "source_type_ss": [
+      "research"
+    ],
+    "subformat_s": [
+      "patent"
+    ],
+    "submission_year_tis": [
+      2001
+    ],
+    "superformat_s": [
+      "bib"
+    ],
+    "title_sort": [
+      "apparatus for loading and unloading a cargo compartment of an aircraft"
+    ],
+    "title_ts": [
+      "Apparatus for loading and unloading a cargo compartment of an aircraft"
+    ],
+    "types_ss": [
+      "bib:other:patent"
+    ],
+    "update_timestamp_dt": [
+      "2016-07-02T01:00:05.361Z"
+    ],
+    "id": "91435",
+    "~merge_info_sf": [
+      "{\"access_condition_s\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"affiliation_associations_json\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"affiliation_ts\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"backlink_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"cluster_id_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"cris_id_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"format\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"format_orig_s\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"isolanguage_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"language_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"member_id_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"orcid_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"pub_date_tis\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"pub_date_tsort\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"research_area_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"review_status_s\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"scientific_level_s\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"source_ext_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"source_id_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"source_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"source_type_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"subformat_s\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"submission_year_tis\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"superformat_s\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"title_sort\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"title_ts\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"types_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"]}"
+    ]
+  },
+  {
+    "alert_timestamp_dt": "2012-11-09T09:18:41.601Z",
+    "isolanguage_ss": [
+      "eng"
+    ],
+    "isolanguage_facet": [
+      "eng"
+    ],
+    "publisher_ts": [
+      "undetermined"
+    ],
+    "toc_key_s": "00963844|000166|000033|000001",
+    "title_ts": [
+      "Fire weeds"
+    ],
+    "source_ss": [
+      "jstor"
+    ],
+    "update_timestamp_dt": "2014-03-08T08:08:42.275Z",
+    "journal_issue_ssf": [
+      "1"
+    ],
+    "issn_ss": [
+      "00963844"
+    ],
+    "fulltext_availability_ss": [
+      "UNDETERMINED"
+    ],
+    "source_id_ss": [
+      "jstor:10.2307/40596856"
+    ],
+    "journal_vol_ssf": [
+      "33"
+    ],
+    "source_type_ss": [
+      "aggregator"
+    ],
+    "affiliation_associations_json": "{\"editor\":[],\"supervisor\":[],\"author\":[null]}",
+    "access_ss": [
+      "dtupub",
+      "dtu"
+    ],
+    "journal_title_ts": [
+      "Torreya"
+    ],
+    "journal_title_facet": [
+      "Torreya"
+    ],
+    "member_id_ss": [
+      "319302922"
+    ],
+    "format": "article",
+    "language_ss": [
+      "English"
+    ],
+    "doi_ss": [
+      "10.2307/40596856"
+    ],
+    "pub_date_tis": [
+      1933
+    ],
+    "journal_page_ssf": [
+      "16"
+    ],
+    "cluster_id_ss": [
+      "193156029"
+    ],
+    "author_ts": [
+      "Torrey, Raymond H."
+    ],
+    "author_facet": [
+      "Torrey, Raymond H."
+    ],
+    "source_ext_ss": [
+      "ds1:jstor"
+    ],
+    "id": "91434"
+  },
+  {
+    "abstract_ts": [
+      "This essay connects four key ideas from Herbert Simon\u0027s \"Sciences of the Artificial\" to recent research on entrepreneurial expertise: (1) natural laws constrain but do not dictate our designs; (2) we should seize every opportunity to avoid the use of prediction in design; (3) locality and contingency govern the sciences of the artificial; and, (4) near-decomposability is an essential feature of enduring designs. The essay is based on a series of conversations and emails with Simon about the empirical findings of my doctoral dissertation that involved a protocol analysis study of expert founder-entrepreneurs. (C) 2003 Elsevier Science B.V. All rights reserved."
+    ],
+    "access_ss": [
+      "dtu"
+    ],
+    "id": "91433",
+    "affiliation_associations_json": [
+      "{\"supervisor\":[],\"author\":[null],\"editor\":[]}"
+    ],
+    "affiliation_ts": [
+      "Univ Maryland, Univ Maryland, College Pk, MD 20742 USA",
+      "RH Smith Sch Business, RH Smith Sch Business, College Pk, MD 20742 USA"
+    ],
+    "alert_timestamp_dt": [
+      "2012-11-07T16:54:16.204Z"
+    ],
+    "author_sort": [
+      "Sarasvathy, SD"
+    ],
+    "author_ts": [
+      "Sarasvathy, SD"
+    ],
+    "backlink_ss": [
+      "http://www.scopus.com/inward/record.url?eid\u003d2-s2.0-0037333748\u0026partnerID\u003dR7fSqWZe",
+      "http://ws.isiknowledge.com/cps/openurl/service?url_ver\u003dZ39.88-2004\u0026rft_id\u003dinfo%3Aut%2F000181646500005"
+    ],
+    "cluster_id_ss": [
+      39267861
+    ],
+    "doi_ss": [
+      "10.1016/S0167-4870(02)00203-9"
+    ],
+    "format": [
+      "article"
+    ],
+    "format_orig_s": [
+      "@ Article"
+    ],
+    "fulltext_availability_ss": [
+      "UNDETERMINED"
+    ],
+    "fulltext_list_ssf": [
+      "{\"source\":\"elsevier\",\"local\":true,\"type\":\"publisher\",\"url\":\"http://production.datastore.cvt.dk/filestore?oid\u003d539fa607759347984c029470\u0026targetid\u003d539fa607759347984c029472\"}",
+      "{\"source\":\"elsevier\",\"local\":false,\"type\":\"publisher\",\"url\":\"http://production.datastore.cvt.dk/filestore?oid\u003d548007152592c157620f380b\u0026targetid\u003d539fa607759347984c029472\"}"
+    ],
+    "isolanguage_ss": [
+      "und"
+    ],
+    "issn_ss": [
+      "18727719",
+      "01674870",
+      "00311227"
+    ],
+    "journal_issue_ssf": [
+      "2"
+    ],
+    "journal_issue_tsort": [
+      2
+    ],
+    "journal_page_ssf": [
+      "203-220"
+    ],
+    "journal_page_start_tsort": [
+      203
+    ],
+    "journal_title_ts": [
+      "Journal of Economic Psychology",
+      "J. Econ. Psychol",
+      "J Econ Psyc",
+      "J Econ Psychol",
+      "J Econ Psych"
+    ],
+    "journal_vol_ssf": [
+      "24"
+    ],
+    "journal_vol_tsort": [
+      24
+    ],
+    "keywords_ts": [
+      "Marketing",
+      "Economics and Econometrics",
+      "Applied Psychology",
+      "Psychology",
+      "Effectuation",
+      "Entrepreneurship",
+      "Rational choice",
+      "ECONOMICS",
+      "PSYCHOLOGY,",
+      "RISK-TAKING",
+      "entrepreneurship",
+      "rational choice",
+      "effectuation",
+      "ENTREPRENEURSHIP",
+      "CORRUGATED paperboard"
+    ],
+    "language_ss": [
+      "und"
+    ],
+    "member_id_ss": [
+      "543e6b76acc4e2154d1497ff",
+      "539fa607759347984c029472",
+      "532a2820c18e77205dde4c38",
+      "217564941",
+      "184678775"
+    ],
+    "pub_date_tis": [
+      2003
+    ],
+    "pub_date_tsort": [
+      2003
+    ],
+    "publisher_ts": [
+      "ELSEVIER SCIENCE BV"
+    ],
+    "source_ext_ss": [
+      "dads:scopus",
+      "dads:elsevier",
+      "dads:isi",
+      "ds1:ebsco"
+    ],
+    "source_id_ss": [
+      "scopus:2-s2.0-0037333748",
+      "elsevier:S0167-4870(02)00203-9",
+      "isi:000181646500005",
+      "ebsco:9192030",
+      "ebsco:3676753"
+    ],
+    "source_ss": [
+      "scopus",
+      "elsevier",
+      "isi",
+      "ebsco"
+    ],
+    "source_type_ss": [
+      "other",
+      "publisher",
+      "aggregator"
+    ],
+    "subformat_s": [
+      "journal_article"
+    ],
+    "superformat_s": [
+      "bib"
+    ],
+    "title_sort": [
+      "entrepreneurship as a science of the artificial"
+    ],
+    "title_ts": [
+      "Entrepreneurship as a science of the artificial"
+    ],
+    "toc_key_s": [
+      "01674870|000096|000024|000002|000000"
+    ],
+    "types_ss": [
+      "bib:article:journal_article"
+    ],
+    "update_timestamp_dt": [
+      "2016-02-20T05:42:07.546Z"
+    ],
+    "~merge_info_sf": [
+      "{\"abstract_ts\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"affiliation_associations_json\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"affiliation_ts\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"author_sort\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"author_ts\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"backlink_ss\":[\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(isi,*) / 532a2820c18e77205dde4c38\"],\"cluster_id_ss\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"doi_ss\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"format\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"format_orig_s\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"fulltext_list_ssf\":[\"(elsevier,*) / 539fa607759347984c029472\",\"(elsevier,*) / 539fa607759347984c029472\"],\"isolanguage_ss\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"issn_ss\":[\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(ebsco,buh) / 184678775\"],\"journal_issue_ssf\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"journal_issue_tsort\":[\"(ebsco,buh) / 217564941\"],\"journal_page_ssf\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"journal_page_start_tsort\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"journal_title_ts\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"journal_vol_ssf\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"journal_vol_tsort\":[\"(ebsco,buh) / 217564941\"],\"keywords_ts\":[\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(isi,*) / 532a2820c18e77205dde4c38\",\"(isi,*) / 532a2820c18e77205dde4c38\",\"(isi,*) / 532a2820c18e77205dde4c38\",\"(isi,*) / 532a2820c18e77205dde4c38\",\"(isi,*) / 532a2820c18e77205dde4c38\",\"(isi,*) / 532a2820c18e77205dde4c38\",\"(ebsco,buh) / 217564941\",\"(ebsco,buh) / 184678775\"],\"language_ss\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"member_id_ss\":[\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(elsevier,*) / 539fa607759347984c029472\",\"(isi,*) / 532a2820c18e77205dde4c38\",\"(ebsco,buh) / 217564941\",\"(ebsco,buh) / 184678775\"],\"pub_date_tis\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"pub_date_tsort\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"publisher_ts\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"source_ext_ss\":[\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(elsevier,*) / 539fa607759347984c029472\",\"(isi,*) / 532a2820c18e77205dde4c38\",\"(ebsco,buh) / 217564941\"],\"source_id_ss\":[\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(elsevier,*) / 539fa607759347984c029472\",\"(isi,*) / 532a2820c18e77205dde4c38\",\"(ebsco,buh) / 217564941\",\"(ebsco,buh) / 184678775\"],\"source_ss\":[\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(elsevier,*) / 539fa607759347984c029472\",\"(isi,*) / 532a2820c18e77205dde4c38\",\"(ebsco,buh) / 217564941\"],\"source_type_ss\":[\"(scopus,*) / 543e6b76acc4e2154d1497ff\",\"(elsevier,*) / 539fa607759347984c029472\",\"(isi,*) / 532a2820c18e77205dde4c38\"],\"subformat_s\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"superformat_s\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"title_sort\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"title_ts\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"toc_key_s\":[\"(isi,*) / 532a2820c18e77205dde4c38\"],\"types_ss\":[\"(scopus,*) / 543e6b76acc4e2154d1497ff\"]}"
+    ]
+  },
+  {
+    "abstract_ts": [
+      "This paper revisits the question of the political and theoretical status of neoliberalism, making the case for a process–based analysis of “neoliberalization.” Drawing on the experience of the heartlands of neoliberal discursive production, North America and Western Europe, it is argued that the transformative and adaptive capacity of this far–reaching political–economic project has been repeatedly underestimated. Amongst other things, this calls for a close reading of the historical and geographical (re)constitution of the process of neoliberalization and of the variable ways in which different “local neoliberalisms” are embedded within wider networks and structures of neoliberalism. The paper’s contribution to this project is to establish a stylized distinction between the destructive and creative moments of the process of neoliberalism—which are characterized in terms of “roll–back” and “roll–out” neoliberalism, respectively—and then to explore some of the ways in which neoliberalism, in its changing forms, is playing a part in the reconstruction of extralocal relations, pressures, and disciplines."
+    ],
+    "id": "81433",
+    "cluster_id_ss": [
+      43524763
+    ],
+    "access_ss": [
+      "dtupub",
+      "dtu"
+    ],
+    "affiliation_associations_json": [
+      "{\"author\":[null,null],\"supervisor\":[],\"editor\":[]}"
+    ],
+    "affiliation_ts": [
+      "University of Wisconsin–Madison, WI, USjpeck@geography.wisc.edu",
+      "University of Bristol, UKa.tickell@bristol.ac.uk"
+    ],
+    "alert_timestamp_dt": [
+      "2012-11-07T21:13:36.199Z"
+    ],
+    "author_sort": [
+      "Peck, Jamie"
+    ],
+    "author_ts": [
+      "Peck, Jamie",
+      "Tickell, Adam"
+    ],
+    "dissertation_date_ssf": [
+      "July 2002"
+    ],
+    "doi_ss": [
+      "10.1111/1467-8330.00247"
+    ],
+    "format": [
+      "article"
+    ],
+    "fulltext_availability_ss": [
+      "UNDETERMINED"
+    ],
+    "fulltext_list_ssf": [
+      "{\"source\":\"blackwell\",\"local\":true,\"type\":\"publisher\",\"url\":\"blackwell?pi\u003d%2F10.1111%2F1467-8330.00247\u0026key\u003d379293549\"}"
+    ],
+    "isolanguage_ss": [
+      "eng"
+    ],
+    "issn_ss": [
+      "14678330",
+      "00664812"
+    ],
+    "journal_issue_ssf": [
+      "3"
+    ],
+    "journal_issue_tsort": [
+      3
+    ],
+    "journal_page_ssf": [
+      "380-404"
+    ],
+    "journal_page_start_tsort": [
+      380
+    ],
+    "journal_title_ts": [
+      "Antipode",
+      "Antipode",
+      "Antipode a Radical Journal of Geography"
+    ],
+    "journal_vol_ssf": [
+      "34"
+    ],
+    "journal_vol_tsort": [
+      34
+    ],
+    "language_ss": [
+      "eng"
+    ],
+    "member_id_ss": [
+      "545a96b333ef13a7137d3b94",
+      "379293549",
+      "80488226"
+    ],
+    "pub_date_tis": [
+      2002
+    ],
+    "pub_date_tsort": [
+      2002
+    ],
+    "publisher_ts": [
+      "Blackwell Publishers Ltd"
+    ],
+    "source_ext_ss": [
+      "dads:crossref",
+      "ds1:blackwell"
+    ],
+    "source_id_ss": [
+      "crossref:10.1111/1467-8330.00247",
+      "blackwell:10.1111/1467-8330.00247",
+      "blackwell:006648122002343380203631350666"
+    ],
+    "source_ss": [
+      "crossref",
+      "blackwell"
+    ],
+    "source_type_ss": [
+      "other",
+      "publisher"
+    ],
+    "subformat_s": [
+      "journal_article"
+    ],
+    "superformat_s": [
+      "bib"
+    ],
+    "title_sort": [
+      "neoliberalizing space"
+    ],
+    "title_ts": [
+      "Neoliberalizing Space"
+    ],
+    "toc_key_s": [
+      "00664812|000097|000034|000003|000000"
+    ],
+    "types_ss": [
+      "bib:article:journal_article"
+    ],
+    "update_timestamp_dt": [
+      "2015-08-13T05:09:13.852Z"
+    ],
+    "~merge_info_sf": [
+      "{\"abstract_ts\":[\"(blackwell,*) / 379293549\"],\"affiliation_associations_json\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"affiliation_ts\":[\"(blackwell,*) / 379293549\"],\"author_sort\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"author_ts\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"cluster_id_ss\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"dissertation_date_ssf\":[\"(blackwell,*) / 379293549\"],\"doi_ss\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"format\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"fulltext_list_ssf\":[\"(blackwell,*) / 379293549\"],\"isolanguage_ss\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"issn_ss\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\",\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"journal_issue_ssf\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"journal_issue_tsort\":[\"(blackwell,*) / 379293549\"],\"journal_page_ssf\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"journal_page_start_tsort\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"journal_title_ts\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"journal_vol_ssf\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"journal_vol_tsort\":[\"(blackwell,*) / 379293549\"],\"language_ss\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"member_id_ss\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\",\"(blackwell,*) / 379293549\",\"(blackwell,*) / 80488226\"],\"pub_date_tis\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"pub_date_tsort\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"publisher_ts\":[\"(blackwell,*) / 379293549\"],\"source_ext_ss\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\",\"(blackwell,*) / 379293549\"],\"source_id_ss\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\",\"(blackwell,*) / 379293549\",\"(blackwell,*) / 80488226\"],\"source_ss\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\",\"(blackwell,*) / 379293549\"],\"source_type_ss\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\",\"(blackwell,*) / 379293549\"],\"subformat_s\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"superformat_s\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"title_sort\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"title_ts\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"toc_key_s\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"],\"types_ss\":[\"(crossref,*) / 545a96b333ef13a7137d3b94\"]}"
+    ]
+  },
+  {
+    "access_ss": [
+      "dtu"
+    ],
+    "affiliation_associations_json": "{\"author\":[0],\"editor\":[],\"supervisor\":[null,null]}",
+    "affiliation_ts": [
+      "12"
+    ],
+    "alert_timestamp_dt": "2016-03-14T06:55:07.82Z",
+    "author_facet": [
+      "Jensen, Morten Bang"
+    ],
+    "author_ts": [
+      "Jensen, Morten Bang"
+    ],
+    "cluster_id_ss": [
+      "185236990"
+    ],
+    "dissertation_date_ssf": [
+      "2011-09-07"
+    ],
+    "format": "thesis",
+    "fulltext_availability_ss": [
+      "UNDETERMINED"
+    ],
+    "id": "11433",
+    "keywords_facet": [
+      "master of science in engineering",
+      "kandidat",
+      "milj\u00f8teknologi",
+      "master of science in environmental engineering"
+    ],
+    "keywords_ts": [
+      "master of science in engineering",
+      "kandidat",
+      "milj\u00f8teknologi",
+      "master of science in environmental engineering"
+    ],
+    "pub_date_tis": [
+      2011
+    ],
+    "source_ext_ss": [
+      "ds1:sorbit"
+    ],
+    "source_id_ss": [
+      "sorbit:17104"
+    ],
+    "source_ss": [
+      "sorbit"
+    ],
+    "source_type_ss": [
+      "other"
+    ],
+    "supervisor_ts": [
+      "Christensen, Thomas H\u00f8jlund",
+      "M\u00f8ller, Jacob"
+    ],
+    "title_ts": [
+      "Environmental Assessment of the Amazing Danish Waste Management System"
+    ],
+    "~merge_info_sf": "{\"affiliation_associations_json\":[\"(sorbit,*) / 309743200\"],\"affiliation_ts\":[\"(sorbit,*) / 309743200\"],\"author_sort\":[\"(sorbit,*) / 309743200\"],\"author_ts\":[\"(sorbit,*) / 309743200\"],\"cluster_id_ss\":[\"(sorbit,*) / 309743200\"],\"dissertation_date_ssf\":[\"(sorbit,*) / 309743200\"],\"format\":[\"(sorbit,*) / 309743200\"],\"fulltext_list_ssf\":[\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\"],\"keywords_ts\":[\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\",\"(sorbit,*) / 309743200\"],\"member_id_ss\":[\"(sorbit,*) / 309743200\"],\"pub_date_tis\":[\"(sorbit,*) / 309743200\"],\"pub_date_tsort\":[\"(sorbit,*) / 309743200\"],\"source_ext_ss\":[\"(sorbit,*) / 309743200\"],\"source_id_ss\":[\"(sorbit,*) / 309743200\"],\"source_ss\":[\"(sorbit,*) / 309743200\"],\"source_type_ss\":[\"(sorbit,*) / 309743200\"],\"supervisor_ts\":[\"(sorbit,*) / 309743200\"],\"title_sort\":[\"(sorbit,*) / 309743200\"],\"title_ts\":[\"(sorbit,*) / 309743200\"]}"
+  },
+  {
+    "access_condition_s": "published",
+    "access_ss": [
+      "dtupub",
+      "ddf_publ",
+      "dtu"
+    ],
+    "affiliation_associations_json": "{\"author\":[2],\"editor\":[],\"supervisor\":[]}",
+    "affiliation_ts": [
+      "Department of Education - Research Programme on Organization and Learning, Department of Education, Arts, Aarhus University",
+      "Department of Education - Research Programme for Future Technologies, Culture and Learning, Department of Education, Arts, Aarhus University",
+      "Department of Education - Research Programme for Future Technologies, Culture and Learning, Department of Education, Arts, Aarhus University"
+    ],
+    "alert_timestamp_dt": "2016-03-14T06:55:07.972Z",
+    "backlink_ss": [
+      "http://pure.au.dk/portal/en/publications/id(5638fd70-9705-482f-8b15-464848c9fcc8).html"
+    ],
+    "cluster_id_ss": [
+      "2186106712"
+    ],
+    "format": "other",
+    "format_orig_s": "dp",
+    "fulltext_availability_ss": [
+      "UNDETERMINED"
+    ],
+    "id": "15007",
+    "isolanguage_facet": [
+      "eng"
+    ],
+    "isolanguage_ss": [
+      "eng"
+    ],
+    "language_ss": [
+      "eng"
+    ],
+    "member_id_ss": [
+      "536b9671b5f5cb5c6902e68b"
+    ],
+    "doi_ss": [
+      "10.5072/4599380/test"
+    ],
+    "patent_number_ss": [
+      "United States Patent 7,077,615"
+    ],
+    "inventor_ts": [
+      "Wallace, Jamie"
+    ],
+    "pub_date_tis": [
+      2001
+    ],
+    "pub_date_tsort": [
+      2001
+    ],
+    "research_area_ss": [
+      "Humanities"
+    ],
+    "review_status_s": "undetermined",
+    "scientific_level_s": "scientific",
+    "source_ext_ss": [
+      "dads:rdb_au"
+    ],
+    "source_id_ss": [
+      "rdb_au:5638fd70-9705-482f-8b15-464848c9fcc8"
+    ],
+    "source_ss": [
+      "rdb_au"
+    ],
+    "source_type_ss": [
+      "research"
+    ],
+    "subformat_s": "patent",
+    "superformat_s": "bib",
+    "title_ts": [
+      "Amazing patent for wonderful testing puporses"
+    ],
+    "types_ss": [
+      "bib:other:patent"
+    ],
+    "update_timestamp_dt": "2016-03-14T06:55:31.6Z",
+    "~merge_info_sf": "{\"access_condition_s\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"affiliation_associations_json\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"affiliation_ts\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"backlink_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"cluster_id_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"format\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"format_orig_s\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"isolanguage_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"language_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"member_id_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"research_area_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"review_status_s\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"scientific_level_s\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"source_ext_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"source_id_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"source_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"source_type_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"subformat_s\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"superformat_s\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"title_sort\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"title_ts\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"],\"types_ss\":[\"(rdb_au,*) / 536b9671b5f5cb5c6902e68b\"]}"
+  }
+]
