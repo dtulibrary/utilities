@@ -3,7 +3,7 @@
 DEFAULT_SOLR_URL="http://localhost:8983/solr/metastore"
 
 if [[ -z $SOLR_URL ]]; then
-	SOLR_URL="$DEFAULT_SOLR_URL/schema"
+	SOLR_URL="$DEFAULT_SOLR_URL"
 fi
 
 if [[ $1 == '--help' || $1 == '-h' ]]; then
